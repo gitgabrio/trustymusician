@@ -3,3 +3,4 @@ lazypredict
 sklearn
 music21 >= 6.7
 matplotlib
+nyoka
